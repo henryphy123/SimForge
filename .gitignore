@@ -1,0 +1,16 @@
+.3d-agent/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# excluded from publication
+tests/
+docs/
+fixtures/
+README.md
